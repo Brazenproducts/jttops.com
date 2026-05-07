@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jttops.com/sitemap.xml
