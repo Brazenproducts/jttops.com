@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://jttops.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://jttops.com/best-jeep-gladiator-jt-tops-and-bed-covers.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jttops.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jttops.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jttops.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://jttops.com/jttops-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jttops.com/jttops-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jttops.com/jttops-reviewed-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://jttops.com/how-to-pick-jttops-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://jttops.com/jttops-market-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://jttops.com/jttops-what-wed-buy-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://jttops.com/what-we-look-for-jttops-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://jttops.com/jttops-practical-guide-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://jttops.com/jttops-worth-the-upgrade-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://jttops.com/jttops-explained-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://jttops.com/smart-jttops-shopping-2026.html</loc><lastmod>2026-06-02</lastmod></url>
-  <url><loc>https://jttops.com/jttops-what-buyers-need-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://jttops.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
